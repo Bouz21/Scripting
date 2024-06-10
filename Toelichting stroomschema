@@ -1,17 +1,1 @@
-Toelichting bij stappen stroomdiagram
-0.	Start programma, vaste documentatie in de kop
-1.	Vraag of het bestand vals.txt leeggemaakt moet worden.
-2.	Indien gewenst, leegmaken vals.txt
-3.	Openen en voorbereiden bestanden
-4.	Lezen regel uit GescandeData.csv.
-5.	Einde bestand bereikt? Zo ja naar stap 13
-6.	Zoek kenteken in RDW.csv.
-7.	Controleer de gegevens.
-8.	Kenteken, merk en type correct? Zo niet, dan naar stap 10
-9.	Bijwerken totalen en naar stap 4
-10.	Print melding over onjuist kenteken/merk/type.
-11.	Schrijf melding in vals.txt.
-12.	Bijwerken totalen en naar stap 4
-13.	Print de bijgehouden totalen.
-14.	Afronding en sluiten bestanden
-15.	Afsluiten programma
+
