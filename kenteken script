@@ -1,4 +1,4 @@
-Maak de variabele appPath aan en gebruik die om op één plek om het pad te definieren voor alle bestanden.
+#Maak de variabele appPath aan en gebruik die om op één plek om het pad te definieren voor alle bestanden.
 # Gebruik vervolgens appPath overal bij het verwijzen naar het pad van de bestanden.
 # Doe dit voor eventuele nieuwe verwijzingen én vervang de bestaande verwijzingen in deze code.
 
@@ -10,19 +10,19 @@ print("= = =  programma kentekensignalering gestart = = = ")
 # deze code laat de current time en current day zien wanneer het script word gerunned 
 import datetime
 
-Get current_date and time
+#Get current_date and time
 current_datetime = datetime.datetime.now()
 
-Extract the date and time components
+#Extract the date and time components
 current_date = current_datetime.date()
 current_time = current_datetime.time()
 
-Print the date and time
+#Print the date and time
 print("Current Date:", current_date)
 print("Current Time:", current_time)
 
-rdwInput = open("C:\\Users\\administrator\\KentekenCheck\\RDW.csv")
-scanInput = open("C:\\Users\\administrator\\KentekenCheck\\GescandeData.csv")
+rdwInput = open("C:\\Test\\Test.txt")
+scanInput = open("C:\\Test\\Test.txt")
 aantalVerwerkt = aantalFout = 0
 legenVals = ""
 
@@ -84,8 +84,7 @@ for auto in scanInput:       #lezen rij voor rij vanuit ScanDevice - GescandeDat
             if kenteken in line:
                 match = 1
                 break
-
-            return match     
+               
 
     if match == 0:              #einde bestand bereikt en kenteken onbekend
         aantalFout = aantalFout + 1
@@ -133,13 +132,13 @@ print("= = =  programma kentekensignalering afgesloten = = =")
 # deze code laat de current time en current day zien wanneer het script word gerunned 
 import datetime
 
-current date and time
+#current date and time
 current_datetime = datetime.datetime.now()
 
-Extract the date and time components
+#Extract the date and time components
 current_date = current_datetime.date()
 current_time = current_datetime.time()
 
-Print the date and time
+#Print the date and time
 print("Current Date:", current_date)
 print("Current Time:", current_time)
