@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net" modified="2024-06-14T14:51:01.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rSIpXI5zdsgvju2ckW07" version="24.5.4" type="device">
+  <diagram name="Pagina-1" id="O1S8BPsJYnIi0occh3U5">
+    <mxGraphModel dx="2345" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-2" target="tLrzyDGb80UZ47sbkaAV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-2" value="0. start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-3" target="tLrzyDGb80UZ47sbkaAV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-3" target="tLrzyDGb80UZ47sbkaAV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-3" value="1. Wilt u het bestand vals.txt leegmaken?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="180" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-5" value="1.2 Bestand vals.txt wordt leeggemaakt." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-7" value="ja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-8" target="tLrzyDGb80UZ47sbkaAV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-8" value="2. Open de bestanden om het te kunnen lezen." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-10" target="tLrzyDGb80UZ47sbkaAV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-10" value="3. Lees de regels die in het bestand zitten." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="455" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-12" target="tLrzyDGb80UZ47sbkaAV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-12" target="tLrzyDGb80UZ47sbkaAV-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-12" value="4. Laatst bekende data?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="580" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-17" target="tLrzyDGb80UZ47sbkaAV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-17" value="5. Zoek de gegevens op." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="597.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-19" target="tLrzyDGb80UZ47sbkaAV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-19" value="6. Controleer de gegevens." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="597.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-21" value="nee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="597.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-22" target="tLrzyDGb80UZ47sbkaAV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-22" value="12. Print de totale uitkomsten." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-24" target="tLrzyDGb80UZ47sbkaAV-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-24" value="13. Sluit alle geopende bestanden." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-26" value="14. Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-28" target="tLrzyDGb80UZ47sbkaAV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-28" target="tLrzyDGb80UZ47sbkaAV-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-28" value="7. Zijn de kenteken en de type in orde?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="583.75" width="120" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-33" target="tLrzyDGb80UZ47sbkaAV-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-33" value="9. Print de melding" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="700" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-35" value="nee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="671.25" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-36" target="tLrzyDGb80UZ47sbkaAV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-36" value="10. Vul in bestand vals.txt de kentekens, merk en type gegevens in." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="780" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="940" />
+              <mxPoint x="1400" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-38" value="11. Werk de uitkomsten/totalen bij." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLrzyDGb80UZ47sbkaAV-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="628" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-40" value="8. Werk de uitkomsten/totalen bij." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="597.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-43" value="ja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="597.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-45" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1400" y="630" as="sourcePoint" />
+            <mxPoint x="1400" y="480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLrzyDGb80UZ47sbkaAV-46" value="ja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="668" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
